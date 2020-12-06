@@ -9,5 +9,6 @@
  <a href="#autores">Autores</a>
 </p>
 
-<a href="#objetivo">Objetivo</a> •
+>Objetivo</a> 
+## Objetivo
 O projeto tem como objetivo
