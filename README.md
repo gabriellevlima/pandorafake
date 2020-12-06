@@ -31,6 +31,7 @@ Base "Databrasil" disponibilizado pelo projeto Fake.Br Corpus
 Para rodar o aplicativo:
 
 pip install streamlit
+
 streamlit run app.py
 
 
