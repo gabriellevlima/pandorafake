@@ -5,5 +5,5 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#conteúdo">Conteúdo</a> •  
- <a href="#autores">Autor</a>
+ <a href="#autores">Autores</a>
 </p>
