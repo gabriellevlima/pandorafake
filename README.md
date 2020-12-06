@@ -4,6 +4,7 @@
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#conteúdo">Conteúdo</a> •  
+ <a href="#conteúdo">Conteúdo</a> • 
+ <a href="#instalação">Instalação</a> •  
  <a href="#autores">Autores</a>
 </p>
