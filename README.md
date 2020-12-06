@@ -16,22 +16,25 @@ O projeto tem como objetivo desenvolver uma solução para o combate às Fake Ne
 ## **Descrição do projeto**
 O projeto técnico consistiu nas seguintes etapas:
 
-1 - Tratamento/Exploração/Visualização das bases de dados (Português e em Inglês)
+ <b>1<b> - Tratamento/Exploração/Visualização das bases de dados (Português e em Inglês)
+
 Base "tweets" disponibilizada pelo site Aos Fatos
+
 Base "Fake/True" disponibilizada pelo Kaggle
+
 Base "Databrasil" disponibilizado pelo projeto Fake.Br Corpus
 
-2 - Contrução e treinamento dos modelos (Naive Baynes, LSTM, Random Forest, Logistic Regression e Decision Tree)
+ <b>2<b> - Contrução e treinamento dos modelos (Naive Baynes, LSTM, Random Forest, Logistic Regression e Decision Tree)
 
-3 - Desenvolvimento de um protótipo de Aplicativo. 
+ <b>3<b> - Desenvolvimento de um protótipo de Aplicativo. 
 
 
 ## **Instalação**
 
 Para rodar o aplicativo:
 
-pip install streamlit
+<i>pip install streamlit<i>
 
-streamlit run app.py
+<i>streamlit run app.py<i>
 
 
