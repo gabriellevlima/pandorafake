@@ -25,7 +25,7 @@ O projeto técnico consistiu nas seguintes partes:
 * Desenvolvimento do protótipo (Web App). 
 
 
-## **App**
+## **Instruções**
 
 Para rodar o aplicativo:
 
