@@ -5,7 +5,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
   <a href="#Descrição do projeto">Descrição do projeto</a> •
- <a href="#instruções">Instruções</a> •  
+ <a href="#Instruções">Instruções</a> •  
 </p>
 
 
