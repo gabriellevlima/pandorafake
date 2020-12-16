@@ -16,7 +16,7 @@ O projeto tem como objetivo desenvolver uma solução para o combate às Fake Ne
 ## **Descrição do projeto**
 O projeto técnico consistiu nas seguintes partes:
 
-* Exploração/Tratamento/Visualização das bases de dados (Português e em Inglês)
+* Tratamento/Exploração/Visualização das bases de dados (Português e em Inglês)
 
   Bases disponibilizadas pelos Aos Fatos, Kaggle e Fake.Br Corpus
 
